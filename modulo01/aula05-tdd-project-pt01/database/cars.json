@@ -1,0 +1,23 @@
+[
+ {
+  "id": "71823bd8-a7c5-4dfc-bc86-1626199dcd58",
+  "name": "F-150",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+ },
+ {
+  "id": "161c6aa6-b746-423f-aea6-29140f51bb50",
+  "name": "Cruze",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+ },
+ {
+  "id": "98e6b34b-59cb-4118-83d1-21657cc7c8e2",
+  "name": "Roadster",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+ }
+]

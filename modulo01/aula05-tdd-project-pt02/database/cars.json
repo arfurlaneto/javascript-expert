@@ -1,0 +1,23 @@
+[
+ {
+  "id": "7033adce-2601-4be5-8963-0c98da4c7f44",
+  "name": "Expedition",
+  "releaseYear": 2021,
+  "available": true,
+  "gasAvailable": true
+ },
+ {
+  "id": "21e52835-688f-413b-8e83-fd6dc25a30e0",
+  "name": "Camaro",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+ },
+ {
+  "id": "9d027084-9c27-4471-8ccb-6f203ae6be0e",
+  "name": "Accord",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+ }
+]

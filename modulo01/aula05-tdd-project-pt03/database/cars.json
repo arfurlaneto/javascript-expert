@@ -1,0 +1,23 @@
+[
+ {
+  "id": "be61018d-40e1-4376-8585-3fc234cdeeff",
+  "name": "Golf",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+ },
+ {
+  "id": "d6c92292-9391-4410-9a32-c07695ac543e",
+  "name": "Grand Caravan",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+ },
+ {
+  "id": "cc93deff-cc48-4ef0-bf6b-e31ff3d7bc04",
+  "name": "Alpine",
+  "releaseYear": 2020,
+  "available": true,
+  "gasAvailable": true
+ }
+]
